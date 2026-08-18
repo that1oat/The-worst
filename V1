@@ -1,6 +1,6 @@
 --The bruteforce edition
---Code starts at line 2500, the rest is nonsense thats unused
-
+--Code starts at line 2500, the rest is nonsense thats unused or random bs lol
+-- hi staboa
 
 local TextChatService = game:GetService("TextChatService")
 local grabevents = game.ReplicatedStorage.GrabEvents
