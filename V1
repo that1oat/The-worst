@@ -15,7 +15,7 @@ local remote = workspace
 
 local arg = string.rep(string.rep("⛓️",1000),3335)
 
---[
+--[[
 
 local RunService = game:GetService("RunService")
 local Players = game:GetService("Players")
